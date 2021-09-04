@@ -2,7 +2,7 @@
 - 👀 Estoy interezado en informatica y Electronica
 - 🌱 Siempre me gusta aprender de estos temas 
 - 💞️ Por el momento me estoy capacitando
-- 📫 Me pueden contanctar por mi correo electronico
+- 📫 Me pueden contanctar por mi correo electronico arbarr20@gmail.com
 
 <!---
 arbarr/arbarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
